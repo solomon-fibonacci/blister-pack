@@ -41,7 +41,11 @@ Some criteria to use in evaluating.
 - how easy is it to get started.
 - early market feedback from customers.
 
-```Closing thoughts
+# Closing thoughts
 > Let's think about IGDM, what can we learn from that? IT was literally free and open source, but people asking for more is what led to it being a source of income? What can we port from that idea?
+
+
 > If we're not going to change lykdat.com to pure b2b cos we think it's a different audience, who are we moving the banner up for?
-> We really should be taling to ONE (group of) person(s): "TARGET AUDIENCE". It's easier to understand who we're talking to if we're talking to one person.```
+
+
+> We really should be taling to ONE (group of) person(s): "TARGET AUDIENCE". It's easier to understand who we're talking to if we're talking to one person.
